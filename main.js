@@ -1,21 +1,21 @@
 // birinchi boshlandi
-// var age = prompt('yoshingizni kiriting');
+var age = prompt('yoshingizni kiriting');
 
-// if (age > 0 && age <= 18){
-//     alert('Yoshakansan o`qishing kerak ')
-// }
-// else if (age > 18 && age <= 50 ){
-//     alert('Ishlashingiz kerak')
-// }
-// else if (age > 50 && age <= 59 ){
-//     alert('Yaqinda pensiyaga chiqasiz')
-// }
-// else if (age > 59 && age <= 150 ){
-//     alert('Pensionerga oxshaysiz agar tirik bolsangiz  ')
-// }
-// else {
-//     alert('Hozir siz qayerdasiz biz sizni topib Nobel mukofoti berib , Ginnes rekordlar kitobiga kiritamiz sekin sirini etasiz kop yashashshi ')
-// }
+if (age > 0 && age <= 18){
+    alert('Yoshakansan o`qishing kerak ')
+}
+else if (age > 18 && age <= 50 ){
+    alert('Ishlashingiz kerak')
+}
+else if (age > 50 && age <= 59 ){
+    alert('Yaqinda pensiyaga chiqasiz')
+}
+else if (age > 59 && age <= 150 ){
+    alert('Pensionerga oxshaysiz agar tirik bolsangiz  ')
+}
+else {
+    alert('Hozir siz qayerdasiz biz sizni topib Nobel mukofoti berib , Ginnes rekordlar kitobiga kiritamiz sekin sirini etasiz kop yashashshi ')
+}
 
 // birinchi tugadi
 // ikkinchin boshlandi
